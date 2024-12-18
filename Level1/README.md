@@ -22,7 +22,7 @@ Exercise 2: Program the unit tests needed to certify the correct operation of fu
 📋 NOTE
 
 * In case needed (afer executing composer install), phpunit.xml file functional code is as follow:
-
+<!--
 <?xml version="1.0" encoding="UTF-8"?>
 <phpunit bootstrap="vendor/autoload.php" colors="true">
     <testsuites>
@@ -31,3 +31,4 @@ Exercise 2: Program the unit tests needed to certify the correct operation of fu
         </testsuite>
     </testsuites>
 </phpunit>
+-->
